@@ -8,12 +8,4 @@ import { CommonModule } from '@angular/common';
   templateUrl: './galeria.html',
   styleUrl: './galeria.css'
 })
-
-export class Galeria {
-
-  
-
- 
-
-
-}
+export class Galeria {}
