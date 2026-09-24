@@ -29,7 +29,7 @@ export class App {
     currentYear = new Date().getFullYear();
   
     navItems: NavItem[] = [
-      { label: 'INICIO', link: '/Home' },
+      { label: 'INICIO', link: '/' },
       { label: 'OFERTA ACADÉMICA', link: '/OfertaAcademica' },
       { label: 'GALERÍA', link: '/Galeria' },
       { label: 'CONTACTO', link: '/Contacto' }
